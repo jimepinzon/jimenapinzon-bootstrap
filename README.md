@@ -1,8 +1,14 @@
-# ICJ Bootstrap Template
+# Bootstrap project
+
+This project was started on Monday, March 22, 2021. This project is due Friday, March 26, 2021.
+
+by: Jimena Pinzon
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
-## How to set up your project
+### How to set up your project
 
 - Create a new folder in your `icj/` folder called `yourname-bootstrap`.
 - In VS Code, open a new window and open your new folder.
